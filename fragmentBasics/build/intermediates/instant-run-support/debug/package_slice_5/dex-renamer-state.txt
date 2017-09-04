@@ -1,0 +1,4 @@
+#Wed Aug 09 20:10:27 IRDT 2017
+base.0=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

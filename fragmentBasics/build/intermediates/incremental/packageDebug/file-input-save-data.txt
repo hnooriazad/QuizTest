@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Aug 09 20:10:28 IRDT 2017
+2.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f5af21268b420afc4689888b725a7740be9c7c4\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\news_articles.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f5af21268b420afc4689888b725a7740be9c7c4
+1.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3c805bd5c9c8d7944649239df747b1f9d1d0ebb4\\classes.dex
+1.set=DEX
+7.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.set=DEX
+0.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3c805bd5c9c8d7944649239df747b1f9d1d0ebb4
+4.file=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

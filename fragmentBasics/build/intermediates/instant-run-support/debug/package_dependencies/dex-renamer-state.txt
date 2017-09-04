@@ -1,0 +1,4 @@
+#Wed Aug 09 20:10:27 IRDT 2017
+base.0=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_b1cbf656044ef4e25db03d867c37c4b16f1ded5c
+renamed.0=classes.dex
+file.0=C\:\\HDD Second Drive\\Projects\\Studio\\QuizTest\\fragmentBasics\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_b1cbf656044ef4e25db03d867c37c4b16f1ded5c\\classes.dex

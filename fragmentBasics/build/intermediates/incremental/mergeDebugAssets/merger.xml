@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\HDD Second Drive\Projects\Studio\QuizTest\fragmentBasics\src\main\assets"/><source path="C:\HDD Second Drive\Projects\Studio\QuizTest\fragmentBasics\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\HDD Second Drive\Projects\Studio\QuizTest\fragmentBasics\src\debug\assets"/></dataSet></merger>
