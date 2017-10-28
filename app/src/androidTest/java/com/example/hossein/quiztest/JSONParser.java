@@ -58,14 +58,14 @@ public class JSONParser {
 		    	 Log.d("test5", url);
 		    	 
 
-				 httpResponse=httpClient.execute(httpPost);
+				 //httpResponse=httpClient.execute(httpPost);
 				
 		    	 Log.d("test6", "test6success");
 
-				HttpEntity httpEntity = httpResponse.getEntity();
+				//HttpEntity httpEntity = httpResponse.getEntity();
 		    	 Log.d("test7", "test7success");
 
-				is = httpEntity.getContent();
+				//is = httpEntity.getContent();
 				Log.d("test2", "test2success");
 
 			} else if (method.equalsIgnoreCase("GET")) {
@@ -76,15 +76,13 @@ public class JSONParser {
 				HttpGet httpGet = new HttpGet(url);
 
 				// HttpResponse
-				 httpResponse = httpClient.execute(httpGet);
-				HttpEntity httpEntity = httpResponse.getEntity();
-				is = httpEntity.getContent();
+				// httpResponse = httpClient.execute(httpGet);
+				//HttpEntity httpEntity = httpResponse.getEntity();
+				//is = httpEntity.getContent();
 
 			}
 
 		} catch (UnsupportedEncodingException e) {
-			e.printStackTrace();
-		} catch (ClientProtocolException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
