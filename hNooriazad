@@ -1,0 +1,3 @@
+public static void main(String args[]){
+System.out.println("No government should have the power to restrict the use of an open source software. Lets make GitHub awesome again!");
+}
